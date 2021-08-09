@@ -349,13 +349,13 @@ void intro()
 void projectdoneby()
 {
     cout << "                      Name       "
-         << "Songala Rohith Kumar" << endl;
+         << "XXXXXX XXXX XXXXX" << endl;
     cout << "                      Branch     "
-         << "Mining Engineering" << endl;
+         << "XXXXXX Engineering" << endl;
     cout << "                      Semester   "
          << "VII" << endl;
     cout << "                      College    "
-         << "National Institute of Technology, Raipur" << endl;
+         << "National Institute of Technology, XXXXX" << endl;
 }
 
 int main()
